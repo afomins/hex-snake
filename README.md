@@ -3,10 +3,10 @@
 
 # Downloads
 *"Hex snake"* `v0.1.0` binaries:
- * Desktop EXE - https://github.com/afomins/yamg/releases/download/v0.4.0/yamg-v0.4.0.jar
+ * Windows EXE - https://github.com/afomins/hex-snake/releases/download/v0.1.0/hex-snake-win-x86.zip
  
 # How it looks
-| 1st demo level | 2nd demo level |
+| Demo 1 | Demo 2 |
 | --|--|
 | <img src="https://github.com/afomins/hex-snake/blob/master/gifs/snake_001.gif" width="400"> | <img src="https://github.com/afomins/hex-snake/blob/master/gifs/snake_000.gif" width="400"> |
 
