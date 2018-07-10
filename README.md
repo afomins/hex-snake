@@ -4,6 +4,7 @@
 # Downloads
 *"Hex snake"* `v0.1.0` binaries:
  * Windows EXE - https://github.com/afomins/hex-snake/releases/download/v0.1.0/hex-snake-win-x86.zip
+ * Linux - https://github.com/afomins/hex-snake/releases/download/v0.1.0/hex-snake-linux.zip
  
 # GIFs
 | Demo 1 | Demo 2 |
